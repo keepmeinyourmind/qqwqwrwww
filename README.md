@@ -15,7 +15,7 @@ Telegram-бот для помощи с выбором предмета и тем
 
 Чтобы сохранить проект, введите это:
 
-git clone https://github.com/keepmeinyourmind/
+git clone https://github.com/keepmeinyourmind/qqwqwrwww
 
 ## Требования
 Требуются установленные библиотеки, указанные в файле "requirements.txt".
