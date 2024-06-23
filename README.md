@@ -9,6 +9,8 @@ Telegram-бот для помощи с выбором предмета и тем
 
 ## Скриншоты
 Скриншоты работы бота можно посмотреть по [ссылке](https://drive.google.com/drive/u/0/folders/1-YOZcM5xG9KCR0CGwlNTtYU5XEFUA2bz)
+![image](https://github.com/keepmeinyourmind/qqwqwrwww/assets/170350113/94c30c22-4ce8-44be-b115-02489a0ff80c)
+
 
 ## Установка
 Для установки проекта потребуются: любая среда разработки на языке Python, установленный мессенджер Telegram
