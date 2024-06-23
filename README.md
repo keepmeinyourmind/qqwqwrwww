@@ -8,8 +8,12 @@ Telegram-бот для помощи с выбором предмета и тем
 Этот бот был разработан для того, чтобы помочь ученикам выбрать предмет и тему для индивидуального проекта. Бот написан на языке программирования Python с помощью aiogram 3.x
 
 ## Скриншоты
-Скриншоты работы бота можно посмотреть по [ссылке](https://drive.google.com/drive/u/0/folders/1-YOZcM5xG9KCR0CGwlNTtYU5XEFUA2bz)
-![image](https://github.com/keepmeinyourmind/qqwqwrwww/assets/170350113/94c30c22-4ce8-44be-b115-02489a0ff80c)
+![image](https://github.com/keepmeinyourmind/qqwqwrwww/assets/170350113/6fefdc4c-127f-414f-b70e-c00a43963eca)
+![image](https://github.com/keepmeinyourmind/qqwqwrwww/assets/170350113/c53920ea-dd4b-4d74-87c0-e19f44f932c4)
+![image](https://github.com/keepmeinyourmind/qqwqwrwww/assets/170350113/f675305c-394d-45b5-bad5-6e0805e959ca)
+![image](https://github.com/keepmeinyourmind/qqwqwrwww/assets/170350113/bd5982ec-7072-42c4-bcce-89bf6b9cd65b)
+![image](https://github.com/keepmeinyourmind/qqwqwrwww/assets/170350113/d1d323b1-1d51-4e9e-8366-d880266dc6e1)
+
 
 
 ## Установка
